@@ -16,6 +16,7 @@
     "@effect/platform-bun": "^0.69.7",
     "@effect/platform-node": "^0.85.7",
     "@effect/rpc": "^0.61.8",
-    "effect": "^3.16.4"
+    "effect": "^3.16.4",
+    "temporal-polyfill": "^0.3.0"
   }
 }
