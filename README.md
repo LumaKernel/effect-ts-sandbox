@@ -4,4 +4,6 @@ bun typehceck
 bun run server.ts
 ```
 
-https://github.com/Effect-TS/effect/issues/4931
+```bash
+bun run client.ts
+```
