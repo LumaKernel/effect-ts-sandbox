@@ -1,15 +1,7 @@
-# sand-ef
-
-To install dependencies:
-
 ```bash
 bun install
+bun typehceck
+bun run server.ts
 ```
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.11. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+https://github.com/Effect-TS/effect/issues/4931
